@@ -2,7 +2,7 @@
 /* google.com/fonts import files go above this line ^
 
 === Project Info =====
-Project:	
+Project: Lesson
 Edit date:
 
 ======= Color ========
@@ -11,8 +11,12 @@ Secondary Color:
 Third Color: 
 Grey:
 
+p {
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
 ===== Typography ======
-Font Family:
+Font Family:  Times New Roman", Georgia, Serif
 Weights:
 
 */
@@ -27,8 +31,18 @@ Weights:
 
 /* Content
 ================= */
+p {
+    font-family: "Times New Roman", Georgia, Serif;
+}
 
-
+.main-content-wrapper {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.carousel-wrapper {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
 /* Footer
 ================= */
 
